@@ -114,13 +114,11 @@ Results Analysis → Visualization → Documentation
 ### Running Experiments
 
 ```bash
-# Run tomography on a test state
+
 python src/quantum_tomography.py --config config/default.yaml
 
-# Generate visualization plots
 python src/visualization.py --results results/
 
-# Generate LaTeX tables
 python src/export_results.py --format latex
 ```
 
@@ -164,11 +162,6 @@ All numerical results are generated reproducibly from the provided code:
 - **Future Work**: See suggestions above
 
 
-## Contact & Support
-
-For questions, issues, or suggestions, please open a GitHub issue or contact the repository maintainer.
-
----
 
 **Last Updated**: February 2026
 **Project Status**: Completed for academic submission
