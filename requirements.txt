@@ -1,1 +1,28 @@
+# Requirements for QML Tomography
 
+## Quantum Machine Learning Libraries
+- qiskit
+- pennylane
+- cirq
+
+## Quantum Computing Libraries
+- qiskit
+- cirq
+- pyquil
+
+## Machine Learning Libraries
+- scikit-learn
+- tensorflow
+- keras
+- numpy
+- pandas
+
+## Visualization Libraries
+- matplotlib
+- seaborn
+- plotly
+
+## Additional Libraries
+- jupyter
+-ipywidgets
+- scipy
